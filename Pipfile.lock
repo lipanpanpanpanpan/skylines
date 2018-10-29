@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "89b1f8d9e04ed8b4a07779b79ac3d29616004f24373dc89a59f0db96a0cfbf65"
+            "sha256": "56b7d439049cc4f64b3e144ebebc85e097af20d09b5c862e7318d19242dca27a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -698,11 +698,11 @@
         },
         "fabric": {
             "hashes": [
-                "sha256:1b993ca92703948b4259d1fa7d1309643b5ce478913054482261b16ad6bc8b13",
-                "sha256:81572002a562b26df657ca10d06b5bcfc6fd56b53374037392c83d4a2158208f"
+                "sha256:93684ceaac92e0b78faae551297e29c48370cede12ff0f853cdebf67d4b87068",
+                "sha256:98538f2f3f63cf52497a8d0b24d18424ae83fe67ac7611225c72afb9e67f2cf6"
             ],
             "index": "pypi",
-            "version": "==1.14.0"
+            "version": "==2.4.0"
         },
         "faker": {
             "hashes": [
@@ -741,6 +741,14 @@
             ],
             "index": "pypi",
             "version": "==1.4.2"
+        },
+        "invoke": {
+            "hashes": [
+                "sha256:4f4de934b15c2276caa4fbc5a3b8a61c0eb0b234f2be1780d2b793321995c2d6",
+                "sha256:dc492f8f17a0746e92081aec3f86ae0b4750bf41607ea2ad87e5a7b5705121b7",
+                "sha256:eb6f9262d4d25b40330fb21d1e99bf0f85011ccc3526980f8a3eaedd4b43892e"
+            ],
+            "version": "==1.2.0"
         },
         "ipaddress": {
             "hashes": [
